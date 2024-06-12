@@ -20,5 +20,7 @@
      DESCRIBE netflix_titles;
 7.*Difficulties
 -Encountered issues with character encoding and data types
+9.*Observation
+-This data has a lot of movies and series that i have watched and i like.
 8.*Conclusion
 -This repository will be used for further assignment and analysis all further updates will be documented here
